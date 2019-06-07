@@ -1,10 +1,10 @@
 # chatApp
-chat app on using terminal
+ChatApp using Mac Terminal 
 
-Chat Client using Python 
+This is just experimenting with clients, server and sockets.
 
-Run
+Open Terminal and type
 python3 mySever.py 
 
-then run two window with 
+Then run two window with 
 python3 myClient.py
